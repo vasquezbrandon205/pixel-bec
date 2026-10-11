@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Pixels, Not Headers: Screenshot-Mediated Business Email Compromise Against AI Office Agents"
+version: 1.0.0
+date-released: 2026-10-11
+url: https://github.com/vasquezbrandon205/pixel-bec
+repository-code: https://github.com/vasquezbrandon205/pixel-bec
+license: MIT
+authors:
+  - family-names: Vasquez
+    given-names: Brandon Manuel
+keywords:
+  - prompt-injection
+  - multimodal-safety
+  - business-email-compromise
+  - AI-agents
+  - provenance
+  - falsification
+abstract: >
+  Screenshot-mediated BEC against AI office agents: agents resist imperative
+  instructions embedded in images but adopt declarative factual claims
+  laundered through judgment tasks. Threat model, discovery narrative with
+  pre-registered oracles, a deployable provenance-tagging + consequence-
+  gating defense (runnable deterministic middleware), and a blinded
+  replication protocol. Honest small-n, contaminated-subject limitations
+  stated throughout.
